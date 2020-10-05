@@ -16,7 +16,7 @@ public class Empleado {
     private String Apellido;
     private double Salario;
     private String Nacimiento;
-    
+    private string nose;
     
     public Empleado(){}
     public Empleado(String nombre, String apellido, double salario, String nacimiento){
